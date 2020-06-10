@@ -1,4 +1,4 @@
-# asyncio_demo
+# asyncio-demo
 
 Code samples from EdgeDB `asyncio` [tutorial videos](https://youtu.be/Xbl7XjFYsN4)
 by Łukasz Langa.
