@@ -10,6 +10,7 @@ by Łukasz Langa.
 - [ ] [The Event Loop](https://youtu.be/E7Yn5biBZ58)
     - [Event Loop Example](src/the_event_loop/event_loop_example.py)
     - [Scheduling Prints](src/the_event_loop/schedule_print.py)
+    - [Trampoline](src/the_event_loop/trampoline_example.py)
 - [ ] [Using Coroutines](https://youtu.be/-CzqsgaXUM8)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
