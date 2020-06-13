@@ -13,6 +13,7 @@ def hog() -> int:
 
 def main() -> None:
     loop = asyncio.get_event_loop()
+    loop.set_debug(True)
     loop.call_later(5, hog)
     loop.call_later(10, loop.stop)
     loop.run_forever()
