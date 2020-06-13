@@ -12,6 +12,7 @@ by Łukasz Langa.
     - [Scheduling Prints](src/the_event_loop/schedule_print.py)
     - [Trampoline](src/the_event_loop/trampoline_example.py)
     - [Long Sync Operation](src/the_event_loop/long_sync_operation.py)
+    - [`uvloop` Example](src/the_event_loop/uvloop_example.py)
 - [ ] [Using Coroutines](https://youtu.be/-CzqsgaXUM8)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
