@@ -7,7 +7,7 @@ by Łukasz Langa.
 
 - [x] [The Asyncio Ecosystem](https://youtu.be/Xbl7XjFYsN4)
     - [Threading Problem](src/the_async_ecosystem/threading_problem.py)
-- [ ] [The Event Loop](https://youtu.be/E7Yn5biBZ58)
+- [x] [The Event Loop](https://youtu.be/E7Yn5biBZ58)
     - [Event Loop Example](src/the_event_loop/event_loop_example.py)
     - [Scheduling Prints](src/the_event_loop/schedule_print.py)
     - [Trampoline](src/the_event_loop/trampoline_example.py)
