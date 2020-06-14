@@ -14,6 +14,7 @@ by Łukasz Langa.
     - [Long Sync Operation](src/the_event_loop/long_sync_operation.py)
     - [`uvloop` Example](src/the_event_loop/uvloop_example.py)
 - [ ] [Using Coroutines](https://youtu.be/-CzqsgaXUM8)
+    - [Await Instruction](src/using_coroutines/await_instruction.py)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
 - [ ] An Example Web Application
