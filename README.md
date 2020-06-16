@@ -16,6 +16,7 @@ by Łukasz Langa.
 - [ ] [Using Coroutines](https://youtu.be/-CzqsgaXUM8)
     - [Await Instruction](src/using_coroutines/await_instruction.py)
     - [Async Function](src/using_coroutines/async_function.py)
+    - [Graceful Exception Handling](src/using_coroutines/graceful_exception_handling.py)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
 - [ ] An Example Web Application
