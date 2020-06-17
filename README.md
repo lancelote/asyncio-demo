@@ -18,6 +18,7 @@ by Łukasz Langa.
     - [Async Function](src/using_coroutines/async_function.py)
     - [Graceful Exception Handling](src/using_coroutines/graceful_exception_handling.py)
     - [Missing `await`](src/using_coroutines/missing_await.py)
+    - [Coroutine Basic](src/using_coroutines/coroutine.py)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
 - [ ] An Example Web Application
