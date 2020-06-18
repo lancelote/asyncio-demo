@@ -20,6 +20,7 @@ by Łukasz Langa.
     - [Missing `await`](src/using_coroutines/missing_await.py)
     - [Coroutine Basic](src/using_coroutines/coroutine.py)
     - [Successive Execution](src/using_coroutines/successive_execution.py)
+    - [Concurrent Execution](src/using_coroutines/concurrent_execution.py)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
 - [ ] An Example Web Application
