@@ -21,6 +21,7 @@ by Łukasz Langa.
     - [Coroutine Basic](src/using_coroutines/coroutine.py)
     - [Successive Execution](src/using_coroutines/successive_execution.py)
     - [Concurrent Execution](src/using_coroutines/concurrent_execution.py)
+    - [Handle Keyboard Interrupt Concurrent](src/using_coroutines/handle_keyboard_interrupt_concurrent.py)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
 - [ ] An Example Web Application
