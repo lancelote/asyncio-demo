@@ -19,6 +19,7 @@ by Łukasz Langa.
     - [Graceful Exception Handling](src/using_coroutines/graceful_exception_handling.py)
     - [Missing `await`](src/using_coroutines/missing_await.py)
     - [Coroutine Basic](src/using_coroutines/coroutine.py)
+    - [Successive Execution](src/using_coroutines/successive_execution.py)
 - [ ] Coroutines Under the Hood
 - [ ] Batteries Included
 - [ ] An Example Web Application
